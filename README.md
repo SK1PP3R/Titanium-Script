@@ -3,6 +3,6 @@
 ```python
 apt install dstat
 apt install cpan
-chmod -R 777 *thisfolder
+chmod -R 777 Titanium-Script
 ./menu
 ```
